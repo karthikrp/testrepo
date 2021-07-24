@@ -1,6 +1,8 @@
 
 
 
-data sashelp.cars;
+data sashelp.class;
 run;
+
+
 
